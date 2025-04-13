@@ -13,5 +13,4 @@ This is a basic Notes API built using pure Node.js without using any frameworks 
   - PUT /api/notes/:id - Update a note
   - DELETE /api/notes/:id - Delete a note
 - Serves a static HTML page at the root with basic frontend
-- Handles errors for missing routes and server issue
-s
+- Handles errors for missing routes and server issues
